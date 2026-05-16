@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+pandas
+sentence-transformers
+streamlit-mic-recorder
+torch
+transformers
+scikit-learn
